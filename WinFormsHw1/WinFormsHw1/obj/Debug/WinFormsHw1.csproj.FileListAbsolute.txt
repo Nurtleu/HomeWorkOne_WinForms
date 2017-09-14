@@ -1,0 +1,9 @@
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\bin\Debug\WinFormsHw1.exe.config
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\bin\Debug\WinFormsHw1.exe
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\bin\Debug\WinFormsHw1.pdb
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\obj\Debug\WinFormsHw1.csprojResolveAssemblyReference.cache
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\obj\Debug\WinFormsHw1.Properties.Resources.resources
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\obj\Debug\WinFormsHw1.csproj.GenerateResource.Cache
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\obj\Debug\WinFormsHw1.exe
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\obj\Debug\WinFormsHw1.pdb
+D:\WindowsForms\HomeWork\WinFormsHw1\WinFormsHw1\obj\Debug\WinFormsHw1.MyHomeWork.resources
